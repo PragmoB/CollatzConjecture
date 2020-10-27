@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CollatzCalc", "CollatzCalc\CollatzCalc.vcxproj", "{37979623-C392-4473-98FD-419A67A5DDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37979623-C392-4473-98FD-419A67A5DDFF}.Debug|x64.ActiveCfg = Debug|x64
+		{37979623-C392-4473-98FD-419A67A5DDFF}.Debug|x64.Build.0 = Debug|x64
+		{37979623-C392-4473-98FD-419A67A5DDFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{37979623-C392-4473-98FD-419A67A5DDFF}.Debug|x86.Build.0 = Debug|Win32
+		{37979623-C392-4473-98FD-419A67A5DDFF}.Release|x64.ActiveCfg = Release|x64
+		{37979623-C392-4473-98FD-419A67A5DDFF}.Release|x64.Build.0 = Release|x64
+		{37979623-C392-4473-98FD-419A67A5DDFF}.Release|x86.ActiveCfg = Release|Win32
+		{37979623-C392-4473-98FD-419A67A5DDFF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05ADEF8B-BDD6-43E5-8A25-088578B3F9A2}
+	EndGlobalSection
+EndGlobal
